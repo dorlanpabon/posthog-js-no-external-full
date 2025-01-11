@@ -1,5 +1,5 @@
 {
-    "name": "posthog-js-no-external-full",
+    "name": "posthog-js",
     "version": "1.173.0",
     "description": "Posthog-js allows you to automatically capture usage and send events to PostHog.",
     "repository": "https://github.com/PostHog/posthog-js",
